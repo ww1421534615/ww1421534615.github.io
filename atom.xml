@@ -3,18 +3,47 @@
   <title>遇见你时风正好</title>
   
   
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
+  <link href="http://weiweii.top/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
-  <updated>2020-08-25T09:27:13.989Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://weiweii.top/"/>
+  <updated>2020-09-04T06:58:20.339Z</updated>
+  <id>http://weiweii.top/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>idea快捷键大全</title>
+    <link href="http://weiweii.top/2020/09/04/%C2%96idea-key-shortcut/"/>
+    <id>http://weiweii.top/2020/09/04/%C2%96idea-key-shortcut/</id>
+    <published>2020-09-04T06:36:56.000Z</published>
+    <updated>2020-09-04T06:58:20.339Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="Crtl"><a href="#Crtl" class="headerlink" title="Crtl"></a>Crtl</h3><table><thead><tr><th>快捷键</th><th>介绍</th></tr></thead><tbody><tr><td>Crtl+F</td><td>在当前文件内进行文本查找</td></tr><tr><td>Crtl+R</td><td>在当前文件内进行文本替换</td></tr><tr><td>Crtl+C</td><td>复制光标所在行或复制选择内容</td></tr><tr><td>Crtl+X</td><td>剪切光标所在行或复制选择内容</td></tr><tr><td>Crtl+V</td><td>粘贴复制或剪切的内容</td></tr><tr><td>Crtl+Y</td><td>删除光标所在行或删除选中的行</td></tr><tr><td>Crtl+D</td><td>复制光标所在行，并粘贴内容至光标下行；复制选择内容并粘贴至光标后方</td></tr><tr><td>Crtl+Z</td><td>撤销</td></tr><tr><td>Crtl+W</td><td>递进式选择代码块。可选中光标所在的单词或段落，连续按会在原有选中的基础上再扩展选中范围</td></tr></tbody></table>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;Crtl&quot;&gt;&lt;a href=&quot;#Crtl&quot; class=&quot;headerlink&quot; title=&quot;Crtl&quot;&gt;&lt;/a&gt;Crtl&lt;/h3&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;快捷键&lt;/th&gt;
+&lt;th&gt;介绍&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbo</summary>
+      
+    
+    
+    
+    <category term="tools" scheme="http://weiweii.top/categories/tools/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>literature</title>
-    <link href="http://yoursite.com/2020/08/25/literature/"/>
-    <id>http://yoursite.com/2020/08/25/literature/</id>
+    <link href="http://weiweii.top/2020/08/25/literature/"/>
+    <id>http://weiweii.top/2020/08/25/literature/</id>
     <published>2020-08-25T09:13:16.000Z</published>
     <updated>2020-08-25T09:27:13.989Z</updated>
     
@@ -29,15 +58,15 @@
     
     
     
-    <category term="articles" scheme="http://yoursite.com/categories/articles/"/>
+    <category term="articles" scheme="http://weiweii.top/categories/articles/"/>
     
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2020/08/25/hello-world/"/>
-    <id>http://yoursite.com/2020/08/25/hello-world/</id>
+    <link href="http://weiweii.top/2020/08/25/hello-world/"/>
+    <id>http://weiweii.top/2020/08/25/hello-world/</id>
     <published>2020-08-25T08:56:31.447Z</published>
     <updated>2020-08-25T09:27:52.948Z</updated>
     
