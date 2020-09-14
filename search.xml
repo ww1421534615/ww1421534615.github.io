@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Hello World</title>
+    <url>/2020/08/25/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>literature</title>
+    <url>/2020/08/25/literature/</url>
+    <content><![CDATA[<h4 id="值得收藏的文艺语句"><a href="#值得收藏的文艺语句" class="headerlink" title="值得收藏的文艺语句"></a>值得收藏的文艺语句</h4><p>​    </p>
+<p>“可是这假意浪漫的万物中，只有你才是我所要描摹的真身。”</p>
+<p>“城市的夜空只有月亮。想你的时候，把湖面的镜子敲碎，让星星一颗、一颗浮上来。”</p>
+<p>“没有你，我的时间是缓慢的米勒行星”</p>
+]]></content>
+      <categories>
+        <category>articles</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>idea快捷键大全</title>
+    <url>/2020/09/04/%C2%96idea-key-shortcut/</url>
+    <content><![CDATA[<h3 id="Crtl"><a href="#Crtl" class="headerlink" title="Crtl"></a>Crtl</h3><table>
+<thead>
+<tr>
+<th>快捷键</th>
+<th>介绍</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Crtl+F</td>
+<td>在当前文件内进行文本查找</td>
+</tr>
+<tr>
+<td>Crtl+R</td>
+<td>在当前文件内进行文本替换</td>
+</tr>
+<tr>
+<td>Crtl+C</td>
+<td>复制光标所在行或复制选择内容</td>
+</tr>
+<tr>
+<td>Crtl+X</td>
+<td>剪切光标所在行或复制选择内容</td>
+</tr>
+<tr>
+<td>Crtl+V</td>
+<td>粘贴复制或剪切的内容</td>
+</tr>
+<tr>
+<td>Crtl+Y</td>
+<td>删除光标所在行或删除选中的行</td>
+</tr>
+<tr>
+<td>Crtl+D</td>
+<td>复制光标所在行，并粘贴内容至光标下行；复制选择内容并粘贴至光标后方</td>
+</tr>
+<tr>
+<td>Crtl+Z</td>
+<td>撤销</td>
+</tr>
+<tr>
+<td>Crtl+W</td>
+<td>递进式选择代码块。可选中光标所在的单词或段落，连续按会在原有选中的基础上再扩展选中范围</td>
+</tr>
+</tbody></table>
+]]></content>
+      <categories>
+        <category>tools</category>
+      </categories>
+  </entry>
+</search>
