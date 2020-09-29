@@ -1,38 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/2020/08/25/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>literature</title>
-    <url>/2020/08/25/literature/</url>
-    <content><![CDATA[<h4 id="值得收藏的文艺语句"><a href="#值得收藏的文艺语句" class="headerlink" title="值得收藏的文艺语句"></a>值得收藏的文艺语句</h4><p>​    </p>
-<p>“可是这假意浪漫的万物中，只有你才是我所要描摹的真身。”</p>
-<p>“城市的夜空只有月亮。想你的时候，把湖面的镜子敲碎，让星星一颗、一颗浮上来。”</p>
-<p>“没有你，我的时间是缓慢的米勒行星”</p>
-]]></content>
-      <categories>
-        <category>articles</category>
-      </categories>
-  </entry>
-  <entry>
     <title>idea快捷键大全</title>
-    <url>/2020/09/04/%C2%96idea-key-shortcut/</url>
+    <url>/2020/09/04/IDEA%E5%BF%AB%E6%8D%B7%E9%94%AE/</url>
     <content><![CDATA[<h3 id="Crtl"><a href="#Crtl" class="headerlink" title="Crtl"></a>Crtl</h3><table>
 <thead>
 <tr>
@@ -80,6 +50,18 @@
 ]]></content>
       <categories>
         <category>tools</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>literature</title>
+    <url>/2020/08/25/%E6%96%87%E8%89%BA%E5%8F%A5%E5%AD%90/</url>
+    <content><![CDATA[<h4 id="值得收藏的文艺语句"><a href="#值得收藏的文艺语句" class="headerlink" title="值得收藏的文艺语句"></a>值得收藏的文艺语句</h4><p>​    </p>
+<p>“可是这假意浪漫的万物中，只有你才是我所要描摹的真身。”</p>
+<p>“城市的夜空只有月亮。想你的时候，把湖面的镜子敲碎，让星星一颗、一颗浮上来。”</p>
+<p>“没有你，我的时间是缓慢的米勒行星”</p>
+]]></content>
+      <categories>
+        <category>articles</category>
       </categories>
   </entry>
 </search>
